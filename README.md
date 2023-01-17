@@ -2,7 +2,7 @@
 - 👀 Estou interessado em desenvolvimento de software
 - 🌱 Possuo conhecimentos básicos em Javascript, HTML5, CSS, React Native, node.js e padrão REST
 - 💞️ Gostaria de estagiar na área de desenvolvimento web/software         
-- 📫 Você pode me conhecer pelo LinkID https://www.linkedin.com/in/douglas-brand%C3%A3o-miranda-827700122/
+- 📫 Você pode me conhecer pelo Linkedin https://www.linkedin.com/in/douglas-brand%C3%A3o-miranda-827700122/
 - 🎓Estou cursando meu segundo semestre em ADS.
 
 <!---👨‍
